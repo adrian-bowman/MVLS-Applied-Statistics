@@ -1,0 +1,10 @@
+name: "MVLS Applied Statistics"
+output_dir: "."
+navbar:
+  title: "MVLS Applied Statistics"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+      
