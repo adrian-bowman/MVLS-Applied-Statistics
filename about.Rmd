@@ -1,5 +1,5 @@
 ---
-title: "MVLS Applied Statistics"
+title: "Applied Statistics"
 ---
 
 Why it is awesome.

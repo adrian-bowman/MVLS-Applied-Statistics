@@ -1,7 +1,7 @@
-name: "MVLS Applied Statistics"
+name: "Applied Statistics"
 output_dir: "."
 navbar:
-  title: "MVLS Applied Statistics"
+  title: "Applied Statistics"
   left:
     - text: "Home"
       href: index.html
